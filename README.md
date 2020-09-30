@@ -12,7 +12,7 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://rkd.zgib.net"><img src="https://avatars3.githubusercontent.com/u/6877977?v=4" width="100px;" alt=""/><br /><sub><b>Richard Darst</b></sub></a><br /><a href="https://github.com/rkdarst/all-contributors-test/commits?author=rkdarst" title="Code">💻</a> <a href="#ideas-rkdarst" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rkdarst/all-contributors-test/commits?author=rkdarst" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://rkd.zgib.net"><img src="https://avatars3.githubusercontent.com/u/6877977?v=4" width="100px;" alt=""/><br /><sub><b>Richard Darst</b></sub></a><br /><a href="https://github.com/rkdarst/all-contributors-test/commits?author=rkdarst" title="Code">💻</a> <a href="#ideas-rkdarst" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rkdarst/all-contributors-test/commits?author=rkdarst" title="Documentation">📖</a> <a href="#infra-rkdarst" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
