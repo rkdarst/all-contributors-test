@@ -16,7 +16,8 @@
         "code",
         "ideas",
         "doc",
-        "infra"
+        "infra",
+        "design"
       ]
     }
   ],
