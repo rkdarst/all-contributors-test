@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rkdarst",
+      "name": "Richard Darst",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6877977?v=4",
+      "profile": "http://rkd.zgib.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "all-contributors-test",
+  "projectOwner": "rkdarst",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
