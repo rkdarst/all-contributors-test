@@ -12,6 +12,7 @@
       "name": "Richard Darst",
       "avatar_url": "https://avatars3.githubusercontent.com/u/6877977?v=4",
       "profile": "http://rkd.zgib.net",
+      "orcid": "aoeuaaoue",
       "contributions": [
         "code",
         "ideas",
@@ -25,6 +26,7 @@
       "name": "Radovan Bast",
       "avatar_url": "https://avatars2.githubusercontent.com/u/5120679?v=4",
       "profile": "https://bast.fr",
+      "extra-field": "12345",
       "contributions": [
         "ideas"
       ]
