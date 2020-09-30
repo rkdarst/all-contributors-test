@@ -18,6 +18,15 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "bast",
+      "name": "Radovan Bast",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5120679?v=4",
+      "profile": "https://bast.fr",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
