@@ -31,6 +31,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "naoe",
+      "name": "naoe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5285319?v=4",
+      "profile": "https://github.com/Naoe",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
